@@ -1,0 +1,22 @@
+{
+  "name": "coffeebreak",
+  "version": "1.0.0",
+  "description": "Tony Jiang(@bruisedllama), Victor Lee(@victorlee0911), Allen Chang(@sylverost)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorlee0911/CoffeeBreak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorlee0911/CoffeeBreak/issues"
+  },
+  "homepage": "https://github.com/victorlee0911/CoffeeBreak#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
